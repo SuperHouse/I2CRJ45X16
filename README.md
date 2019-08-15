@@ -1,13 +1,13 @@
-Home Automation Light Switch Controller
-=======================================
-Copyright 2017 SuperHouse Automation Pty Ltd  www.superhouse.tv  
+Home Automation Light Switch Breakout
+=====================================
+Copyright 2019 SuperHouse Automation Pty Ltd  www.superhouse.tv  
 
-Light switch controller for connection to SuperHouse light switches.
+I2C light switch controller breakout for connection to SuperHouse light switches.
 
 Features:
 
- * EtherMega footprint for processor and Ethernet
- * RJ45 sockets for connection to light switches over Cat-5
+ * I2C interface
+ * 16 x RJ45 sockets for connection to light switches over Cat-5
 
 More information:
 
