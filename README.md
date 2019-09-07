@@ -1,17 +1,19 @@
-Home Automation Light Switch Breakout
-=====================================
+I2C to RJ45 Breakout (16 Port)
+==============================
 Copyright 2019 SuperHouse Automation Pty Ltd  www.superhouse.tv  
 
-I2C light switch controller breakout for connection to SuperHouse light switches.
+24 RJ45 sockets connected to 64 I/O channels via I2C addressable
+I/O controllers. Intended for use in building a home automation light
+switch controller for connection to SuperHouse light switches.
 
 Features:
 
- * I2C interface
  * 16 x RJ45 sockets for connection to light switches over Cat-5
+ * I2C interface with interrupt output
 
 More information:
 
-  http://www.superhouse.tv/
+  http://www.superhouse.tv/i2crj45x16
 
 INSTALLATION
 ------------
