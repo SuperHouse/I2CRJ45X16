@@ -1,6 +1,6 @@
 I2C to RJ45 Breakout (16 Port)
 ==============================
-Copyright 2019 SuperHouse Automation Pty Ltd  www.superhouse.tv  
+Copyright 2019-2021 SuperHouse Automation Pty Ltd  www.superhouse.tv  
 
 24 RJ45 sockets connected to 64 I/O channels via I2C addressable
 I/O controllers. Intended for use in building a home automation light
